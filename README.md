@@ -1,1 +1,2 @@
-# counter_orang_dan_motor
+### Description
+In this project i made a program to count the number of people or motorbike that passed the frame. I used the blob analysis for this project. The code and video source is available at this repository. I will briefly explain the code for you.
