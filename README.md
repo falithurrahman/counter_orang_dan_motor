@@ -33,4 +33,4 @@ Next step after i get the frame for moving part, i'll perform thresholding metho
 ```
 
 Using blob analysis, i can figure out contour size of person and motorbike. If a contour sized of a person, the person counter will add up. However if a contour sized of a motorbike, the motorbike counter will add up. That's the brief explanation of what i did in this project.
-However, this code is not perfect. It doesn't work if by any chance there's a person and motorbike pass the frame at the same time. I'll open to further question and discussion. Thanks.
+However, this code is not perfect. It doesn't work if by any chance there's a person and motorbike pass the frame at the same time. If you have any question, i am open to further question and discussion. Thanks.
